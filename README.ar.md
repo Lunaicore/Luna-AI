@@ -57,5 +57,12 @@
 
 ---
 
+## 🐛 الإبلاغ عن المشكلات واقتراح الميزات
+هل واجهتك مشكلة أو لديك فكرة جديدة؟ يسعدنا سماع ذلك!
+- 👉 [الإبلاغ عن خطأ (Bug Report)](https://github.com/Lunaicore/Luna-AI/issues/new?template=bug-report.md)
+- 👉 [اقتراح ميزة جديدة (Feature Request)](https://github.com/Lunaicore/Luna-AI/issues/new?template=feature-request.md)
+
+  ---
+  
 ## 📄 الحقوق والشروط
 جميع الحقوق محفوظة © 2026 **Hussain (EinMM)**. هذا المستودع مخصص لتوثيق وإصدارات الروابط التجريبية (Beta) لـ Luna AI.
