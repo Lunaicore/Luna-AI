@@ -59,3 +59,10 @@ Luna automatically detects your GPU VRAM and suggests the optimal local model:
 
 ## 📄 License & Terms
 All rights reserved © 2026 **Hussain (EinMM)**. This repository hosts public release assets and documentation for Luna AI Beta.
+
+---
+
+## 🐛 Reporting Issues & Feature Requests
+Found a bug or have an idea? We'd love to hear from you!
+- 👉 [Report a Bug](https://github.com/Lunaicore/Luna-AI/issues/new?template=bug-report.md)
+- 👉 [Request a Feature](https://github.com/Lunaicore/Luna-AI/issues/new?template=feature-request.md)
